@@ -1,0 +1,18 @@
+American car Models:-
+01. Ford Mustang (Flat Rock, Mich.) , Fuel tank capacity: 60L.
+02. Jeep Cherokee (Belvidere, Ill.), Fuel tank capacity:
+03. Chevrolet Corvette (Bowling Green, Ky.), Fuel tank capacity: 70L
+
+German car models:-
+01. Mercedes-AMG GT Black Series, Fuel tank capacity: 75L
+02. Porsche 911 Carrera, Fuel tank capacity :65L 
+03. Audi RS6, Fuel tank capacity: 75L
+
+Japan car models:-
+01. 2022 Honda Civic, Fuel tank capacity: 50.00L  
+02. 2022 Toyota Prius Prime, Fuel tank capacity: 45.00L
+03. 2021 Lexus ES, Fuel tank capacity: 60.00L
+
+korea car models:-
+01. 10 Genesis GV70. Via Genesis, Fuel tank capacity: 65L
+02. 7 Hyundai Veloster N. Via Hyundai, Fuel tank capacity: 50L

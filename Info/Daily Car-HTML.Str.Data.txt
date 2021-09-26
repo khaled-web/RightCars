@@ -1,0 +1,183 @@
+nav
+....
+
+nav.navbar.px-3.navbar-expand-lg#navBar>	!!!attention!!!>(.px-3)&(.navbar-expand-lg) for bootstrap
+
+	a.navbar-brand>
+
+		img
+
+	button.navbar-taggler>
+
+		span.navbar-icon> 
+
+			AwesomeIcon
+
+	div.collape.navbar-collapse#myNav>
+
+		ul.navbar-nav.mx-auto>		!!!attention!!!>(.mx-auto) for bootstrap
+
+			4* li.nav-item.active>
+
+				a.nav-link
+
+			div.nav-icons.d-none.d-lg-block>	!!!attention!!!>(.d-none)&(d-lg-block for bootstrap
+
+				3 a.nav-icon*> AwesomeIcons
+
+.............................................................................................................................
+
+Header
+......
+
+header.header#header>
+
+	div.container-fluid>
+
+		div.row.height-max.align-items-center>
+
+			div.col.col-md-9.ml-auto.text-right.pr-5>
+
+				h5.title-heading.d-inline-block.p-2.text-upperCase +
+
+				h2.text-upperCase.my-2.title +
+
+				h3.text-upperCase +
+
+				h6.text-capitalize +
+
+				h2> 
+					a.title-icon.d-inline-block.mx-2>
+
+						AwesomeIcon
+
+.............................................................................................................................
+
+Skills
+......
+
+section.skills.py-5#skills>
+
+	div.container>
+
+		div.row.mb-5>
+	
+			div.col.d-flex.flex-wrap.text-uppercase.justify-content-center>
+			
+				h1.font-weight-blod.align-self-center.mx-1 +
+
+				h1.section-title__special.mx-1
+
+		div.row>
+
+			4*div.col-sm-6.col-lg-3.text-center.my-3>
+
+				a.skill-icon.p-2.rounded-circle> AwesomeIcon +
+
+				h6.text-uppercase.font-weight-bold.my-3 +
+
+				div.skill-underline +
+
+				p.w-70.mx-auto.text-muted
+
+.............................................................................................................................
+
+inventory
+.........
+
+section.inventory.py-5#inventory>
+
+	div.container>
+
+		div.row.mb-5>
+
+			div.col.d-flex.flex-wrap.text-uppercase.justify-content-center>
+
+				h1.font-weight-bold.align-self-center.mx-1 +
+
+				h1.section-title__special.mx-1
+
+		div.row.mb-5>
+
+			div.col-10.mx-auto.col.md-12.d-flex.justify-content-end>
+
+				3*button.btn.btn-outline-secondary.text-uppercase.mx-1.filter-btn (data-filter)
+
+		div.row.inventory-container>
+
+			9*div.col-10.mx-auto.my-3.col-md-6.col-lg.4>
+
+				div.card.car-card>
+
+					img.card-img-top.car-img +
+
+					div.card-body>
+
+						div.car-info.d-flex.justify-content-between>
+
+							div.car-text.text-uppercase> 2*h6
+
+							h5.car-value.align-self-center.py-2.px-3
+
+					div.card-footer.text-capitalize.d-flex.justify-content-between>
+							
+						3*p> span> AwesomeIcon
+
+.............................................................................................................................
+
+question
+.........
+
+section.question.py-5#question>
+
+	div.container>
+
+		div.row>
+
+			2*.col-10.mx-auto.my-2.col-md-6.d-flex.justify-content-between.question-(grey&&yellow).p-4>						
+				
+				a.question-icon.mr-3> AwesomeIcon +
+
+				div.question-text.w-75>
+
+					h4.question-text.text-capitalize.font-weight-bold +
+
+					p.question-info	
+
+.............................................................................................................................
+
+Featured
+........
+
+section.featured.py-5#featured>
+
+	div.container>
+
+		div.row.mb-5>
+
+			div.col.d-flex.flex-wrap.text-uppercase.justify-content-center>
+
+				h1.font-weight-bold.align-self-center.mx-1 +
+
+				h1.section-title__special.mx-1
+
+		div.row>
+
+			div.col-10.mx-auto.col-lg-6.featured-info.my-3>
+
+				5*div.featured-item.my-3.d-flex.p-2.text-capitalize.align-item-baseline.flex-wrap>
+
+					span.featured-icon.mr-2>AwesomeIcon +
+
+					h5.font-weight-bold.mx-1 +
+					
+					h5.mx-1
+
+			div.col-10.mx-auto.col-lg-6.featured-img.my-3>
+
+				div.img-container>
+
+					img.img-fluid.featured-photo +
+
+					a.featured-link> AwesomeIcon
+			
